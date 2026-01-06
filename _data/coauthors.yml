@@ -1,34 +1,35 @@
-"adams":
-  - firstname: ["Edwin", "E.", "E. P.", "Edwin Plimpton"]
-    url: https://en.wikipedia.org/wiki/Edwin_Plimpton_Adams
+"schoellig":
+  - firstname: ["Angela P.", "Angela", "A. P."]
+    url: https://www.dynsyslab.org/prof-angela-schoellig/
 
-"podolsky":
-  - firstname: ["Boris", "B.", "B. Y.", "Boris Yakovlevich"]
-    url: https://en.wikipedia.org/wiki/Boris_Podolsky
+"brunke":
+  - firstname: ["Lukas", "L."]
+    url: https://www.ce.cit.tum.de/lsy/team/lukas-brunke/
 
-"rosen":
-  - firstname: ["Nathan", "N."]
-    url: https://en.wikipedia.org/wiki/Nathan_Rosen
+"hirche":
+  - firstname: ["Sandra", "S."]
+    url: https://www.ce.cit.tum.de/itr/hirche/
 
-"bach":
-  - firstname: ["Johann Sebastian", "J. S."]
-    url: https://en.wikipedia.org/wiki/Johann_Sebastian_Bach
+"graichen":
+  - firstname: ["Knut", "K."]
+    url: https://www.ac.tf.fau.eu/person/knut-graichen/
 
-  - firstname: ["Carl Philipp Emanuel", "C. P. E."]
-    url: https://en.wikipedia.org/wiki/Carl_Philipp_Emanuel_Bach
+"billard":
+  - firstname: ["Aude", "A."]
+    url: https://people.epfl.ch/aude.billard
 
-"przibram":
-  - firstname: ["Karl"]
-    url: https://link.springer.com/article/10.1007/s00016-019-00242-z
+"zhou":
+  - firstname: ["Siqi", "S.", "SiQi"]
+    url: https://www.ce.cit.tum.de/lsy/team/siqi-zhou/
 
-"schrodinger":
-  - firstname: ["Erwin"]
-    url: https://en.wikipedia.org/wiki/Erwin_Schr%C3%B6dinger
+"schuck":
+  - firstname: ["Martin", "M."]
+    url: https://www.ce.cit.tum.de/lsy/team/martin-schuck/
 
-"lorentz":
-  - firstname: ["Hendrik Antoon"]
-    url: https://en.wikipedia.org/wiki/Hendrik_Lorentz
+"althoff":
+  - firstname: ["Matthias", "M."]
+    url: https://www.ce.cit.tum.de/cps/members/althoff/
 
-"planck":
-  - firstname: ["Max"]
-    url: https://en.wikipedia.org/wiki/Max_Planck
+"pavone":
+  - firstname: ["Marco", "M."]
+    url: https://web.stanford.edu/~pavone/
