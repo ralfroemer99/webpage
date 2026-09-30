@@ -409,6 +409,48 @@ ul.task-list input[type="checkbox"] {
   }
 }
 
+// Social (top, under the name on the about page)
+
+.about-header {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: space-between;
+  column-gap: 1rem;
+  margin-bottom: 1.5rem;
+
+  .post-title {
+    margin-bottom: 0;
+  }
+}
+
+.social-top {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1.1rem;
+  font-size: 2.25rem;
+  margin-left: auto;
+
+  @media (max-width: 576px) {
+    margin-left: 0;
+  }
+
+  a {
+    i::before {
+      color: var(--global-text-color);
+      transition: color 0.2s ease-in-out;
+    }
+
+    &:hover {
+      text-decoration: none;
+
+      i::before {
+        color: var(--global-theme-color);
+      }
+    }
+  }
+}
+
 // Social (bottom)
 
 .social {
