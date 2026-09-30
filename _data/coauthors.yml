@@ -1,35 +1,3 @@
-"schoellig":
-  - firstname: ["Angela P.", "Angela", "A. P."]
-    url: https://www.dynsyslab.org/prof-angela-schoellig/
-
-"brunke":
-  - firstname: ["Lukas", "L."]
-    url: https://www.ce.cit.tum.de/lsy/team/lukas-brunke/
-
-"hirche":
-  - firstname: ["Sandra", "S."]
-    url: https://www.ce.cit.tum.de/itr/hirche/
-
-"graichen":
-  - firstname: ["Knut", "K."]
-    url: https://www.ac.tf.fau.eu/person/knut-graichen/
-
-"billard":
-  - firstname: ["Aude", "A."]
-    url: https://people.epfl.ch/aude.billard
-
-"zhou":
-  - firstname: ["Siqi", "S.", "SiQi"]
-    url: https://www.ce.cit.tum.de/lsy/team/siqi-zhou/
-
-"schuck":
-  - firstname: ["Martin", "M."]
-    url: https://www.ce.cit.tum.de/lsy/team/martin-schuck/
-
-"althoff":
-  - firstname: ["Matthias", "M."]
-    url: https://www.ce.cit.tum.de/cps/members/althoff/
-
-"pavone":
-  - firstname: ["Marco", "M."]
-    url: https://web.stanford.edu/~pavone/
+# Co-author links (last name -> firstname list + url) render as highlighted links in publications.
+# Intentionally empty: co-author names are shown as plain text.
+{}
