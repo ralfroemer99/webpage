@@ -22,7 +22,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 I am a PhD student at the Technical University of Munich (TUM) in the [Learning Systems and Robotics Lab (LSY)](https://www.ce.cit.tum.de/lsy/home/), advised by [Prof. Angela Schoellig](https://www.dynsyslab.org/prof-angela-schoellig/). Recently, I spent time as a visiting researcher at ETH Zurich in the [Learning and Adaptive Systems Group](https://las.inf.ethz.ch/), advised by [Prof. Andreas Krause](https://las.inf.ethz.ch/krausea).
-My goal is to build trustworthy general-purpose robots that keep improving after deployment. To this end, I mainly work on post-training, continual learning, and uncertainty quantification for robot foundation models (e.g., VLAs, WAMs, LLMs). 
+My research focuses on building trustworthy general-purpose robots that keep improving after deployment. To this end, I mainly work on post-training, continual learning, and uncertainty quantification for robot foundation models (e.g., VLAs, WAMs, LLMs). 
 
 
 Before joining LSY, I obtained a Master's degree in Electrical and Computer Engineering at TUM in 2023 and a Bachelor's degree in Mechatronics at FAU Erlangen-Nuremberg in 2020, funded by the German Academic Scholarship Foundation.
