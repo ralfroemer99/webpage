@@ -16,6 +16,13 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/publications/";
           },
+        },{id: "nav-cv",
+          title: "CV",
+          description: "",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/cv/";
+          },
         },{id: "nav-news",
           title: "News",
           description: "",
@@ -76,6 +83,12 @@ ninja.data = [{
           description: "",
           section: "News",},{id: "news-gave-an-invited-talk-at-the-rss-workshop-on-trustworthy-embodied-foundation-models-at-the-diffusion-for-robot-learning-workshop-we-received-the-best-paper-award-impressions",
           title: 'Gave an invited talk at the RSS Workshop on Trustworthy Embodied Foundation Models....',
+          description: "",
+          section: "News",},{id: "news-gave-an-invited-talk-on-continual-learning-for-vision-language-action-models-at-tng-technology-consulting-video",
+          title: 'Gave an invited talk on Continual Learning for Vision-Language-Action Models at TNG Technology...',
+          description: "",
+          section: "News",},{id: "news-gave-an-invited-talk-on-trustworthy-and-adaptive-generalist-robot-policies-at-the-smart-group-at-saxion-university",
+          title: 'Gave an invited talk on Trustworthy and Adaptive Generalist Robot Policies at the...',
           description: "",
           section: "News",},{
         id: 'social-email',
