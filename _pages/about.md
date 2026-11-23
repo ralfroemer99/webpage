@@ -22,8 +22,8 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 I am a PhD student at the Technical University of Munich (TUM) in the [Learning Systems and Robotics Lab (LSY)](https://www.ce.cit.tum.de/lsy/home/), advised by [Prof. Angela Schoellig](https://www.dynsyslab.org/prof-angela-schoellig/). Recently, I spent time as a visiting researcher at ETH Zurich in the [Learning and Adaptive Systems Group](https://las.inf.ethz.ch/), advised by [Prof. Andreas Krause](https://las.inf.ethz.ch/krausea).
-My research focuses on physical AI: enabling robots to safely and autonomously improve throughout their operational lifetimes,
-making them reliable and effective for deployment in real-world settings. To this end, I develop methods for uncertainty-aware post-training and continual learning for generalist robot policies (e.g., VLAs, WAMs).
+My goal focuses on building trustworthy general-purpose robots that keep improving after deployment. To this end, I mainly work on post-training, continual learning, and uncertainty quantification for robot foundation models (e.g., VLAs, WAMs, LLMs). 
+
 
 Before joining LSY, I obtained a Master's degree in Electrical and Computer Engineering at TUM in 2023 and a Bachelor's degree in Mechatronics at FAU Erlangen-Nuremberg in 2020, funded by the German Academic Scholarship Foundation.
 During my studies, I spent a semester at EPFL and conducted research in machine learning for robotic throwing with Prof. [Aude Billard](https://people.epfl.ch/aude.billard?lang=en). Previously, I also worked with Prof. [Sandra Hirche](https://www.ce.cit.tum.de/itr/hirche/) at TUM and with Prof. [Knut Graichen](https://www.ac.tf.fau.eu/person/knut-graichen/) at FAU.
